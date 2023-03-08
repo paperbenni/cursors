@@ -1,2 +1,3 @@
 [Icon Theme]
-Inherits=osx-instantos
+Name=osx-instantos
+Inherits="macOS-Monterey"

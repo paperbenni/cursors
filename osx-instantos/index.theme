@@ -1,4 +1,4 @@
 [Icon Theme]
-Name=osx-instantos
-Comment=OSX El Capitan cursor theme by xxmmtrtxx
-
+Name=macOS-Monterey
+Comment=macOS Monterey Cursors
+Inherits="hicolor"
